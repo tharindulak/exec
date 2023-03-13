@@ -1,0 +1,9 @@
+[package]
+org = "Tharinduj22"
+name = "Tharindu"
+version = "1.0.0"
+export = ["Tharindu"]
+distribution = "2201.3.1"
+
+[build-options]
+observabilityIncluded = true
